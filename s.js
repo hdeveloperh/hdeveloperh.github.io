@@ -1,1 +1,1 @@
-alert('GG');
+alert('origin' + ' ' + 'you are hacked!' );
