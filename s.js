@@ -1,1 +1,1 @@
-alert('origin' + ' ' + 'you are hacked!' );
+alert(origin + ' ' + 'you are hacked!' );
